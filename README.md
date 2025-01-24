@@ -1,4 +1,4 @@
-# AFTAFT Projects
+# AFT Projects
 
 We are a happy group of three friends, motivated to *acquire knowledge* and *create fun stuff*! 😊  
 
@@ -6,6 +6,6 @@ Check out our project **CATA**, where we collected and analyzed the acceleration
 
 ## Cata
 
-![saltise](AFT SALTISE poster.pdf)
+![saltise](CATA/AFT SALTISE poster.pdf)
 
-![space](AFT SPACE poster.pdf)
+![space](CATA/AFT SPACE poster.pdf)
