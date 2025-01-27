@@ -6,6 +6,6 @@ Check out our project **CATA**, where we collected and analyzed the acceleration
 
 ## Cata
 
-[saltise](CATA/saltise-poster.png)
+![saltise](CATA/saltise-poster.png)
 
 ![space](CATA/space-poster.png)
