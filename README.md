@@ -6,7 +6,7 @@ Check out our project **CATA**, where we collected and analyzed the acceleration
 
 ## Cata
 
-Our goal was to collect data on the acceleration experienced in the Montréal metro. We used an Arduino electronic circuit to power an accelerometer within a box we place on the metro for this purpose. We look at vibration levels, maximal acceleration, and maximal deceleration as comparisons between different lines and train types. The questions answered by this project are ones that we naturally asked ourselves when taking the metro every day getting to school, and we finally found a creative way to answer them. The poster attached presents our findings in further detail.
+Our goal was to collect data on the acceleration experienced in the Montréal metro. We used an Arduino electronic circuit to power an accelerometer within a box we place on the metro for this purpose. We look at vibration levels, maximal acceleration, and maximal deceleration as comparisons between different lines and train types. The questions answered by this project are ones that we naturally asked ourselves when taking the metro every day getting to school, and we finally found a creative way to answer them. The poster attached presents our findings in further detail. For all the details, the full published paper has been uploaded recently in the CATA folder.
 
 ![saltise](CATA/saltise-poster.png)
 
